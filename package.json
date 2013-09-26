@@ -1,0 +1,20 @@
+{
+  "name": "commentingsystem",
+  "version": "1.0.0",
+  "description": "Final Asses for SINet",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {
+    "express": "~3.3.7",
+    "mongoose": "~3.6.19"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "comment"
+  ],
+  "author": "Jes Anub",
+  "license": "MIT"
+}
